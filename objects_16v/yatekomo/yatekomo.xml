@@ -1,0 +1,34 @@
+<innermodel>
+	<transform id="pose_0_yatekomo" tx="-6.8487854" ty="706.5541382" tz="859.4896851"  rx="1.552518129" ry="-0.00213855342" rz="0.03809597716">
+	</transform>
+	<transform id="pose_1_yatekomo" tx="-12.62794495" ty="708.0249634" tz="866.0079346"  rx="1.561096191" ry="-0.006527617574" rz="-0.7682079673">
+	</transform>
+	<transform id="pose_2_yatekomo" tx="-1.562896729" ty="702.0296021" tz="856.4939575"  rx="1.543706656" ry="0.02880793065" rz="-1.54917109">
+	</transform>
+	<transform id="pose_3_yatekomo" tx="-10.07736206" ty="709.296936" tz="859.4083252"  rx="1.587989211" ry="-0.01710668579" rz="-2.375035524">
+	</transform>
+	<transform id="pose_4_yatekomo" tx="-13.6945343" ty="716.5686035" tz="856.6821899"  rx="-1.53922081" ry="3.146443129" rz="0.01829508133">
+	</transform>
+	<transform id="pose_5_yatekomo" tx="-9.674705505" ty="720.911377" tz="850.7607422"  rx="1.604679942" ry="-0.03602367267" rz="2.396819353">
+	</transform>
+	<transform id="pose_6_yatekomo" tx="-20.01974487" ty="700.8954468" tz="860.2889404"  rx="1.560038328" ry="-0.0572664924" rz="1.58879292">
+	</transform>
+	<transform id="pose_7_yatekomo" tx="-18.00584412" ty="709.0167236" tz="859.9990234"  rx="1.575895071" ry="-0.04510532692" rz="0.8345712423">
+	</transform>
+	<transform id="pose_8_yatekomo" tx="-42.10021973" ty="709.6320801" tz="1337.507935"  rx="1.553408861" ry="0.02123941854" rz="-0.4046242237">
+	</transform>
+	<transform id="pose_9_yatekomo" tx="-41.81140137" ty="713.7736206" tz="1342.927979"  rx="1.565838695" ry="0.007358652074" rz="-1.064419389">
+	</transform>
+	<transform id="pose_10_yatekomo" tx="-39.18080139" ty="701.8099976" tz="1337.742676"  rx="1.5641433" ry="0.06697881967" rz="-1.934919715">
+	</transform>
+	<transform id="pose_11_yatekomo" tx="-39.44779968" ty="713.2403564" tz="1323.272827"  rx="1.62653482" ry="0.03734668717" rz="-2.667507172">
+	</transform>
+	<transform id="pose_12_yatekomo" tx="-40.47546387" ty="709.3493652" tz="1337.146362"  rx="1.587815881" ry="-0.002009304473" rz="2.691940784">
+	</transform>
+	<transform id="pose_13_yatekomo" tx="-55.32273865" ty="696.1619263" tz="1360.365356"  rx="1.58896029" ry="-0.03829302266" rz="2.025016308">
+	</transform>
+	<transform id="pose_14_yatekomo" tx="-59.30084229" ty="692.5438232" tz="1353.77124"  rx="1.597070336" ry="-0.08205959946" rz="1.156851411">
+	</transform>
+	<transform id="pose_15_yatekomo" tx="-56.5534668" ty="694.7581787" tz="1351.105225"  rx="1.563087225" ry="-0.09520293772" rz="0.5866701007">
+	</transform>
+</innermodel>

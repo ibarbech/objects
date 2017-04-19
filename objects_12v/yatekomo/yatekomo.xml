@@ -1,0 +1,26 @@
+<innermodel>
+	<transform id="pose_0_yatekomo" tx="-12.83630371" ty="706.9021606" tz="880.8622437"  rx="1.545498967" ry="-0.009761734866" rz="0.01314133871">
+	</transform>
+	<transform id="pose_1_yatekomo" tx="-18.01322174" ty="705.3794556" tz="888.4020996"  rx="1.554439783" ry="-0.01520111132" rz="-0.9516602159">
+	</transform>
+	<transform id="pose_2_yatekomo" tx="-17.23059082" ty="712.663269" tz="876.6739502"  rx="1.585059881" ry="-0.01344311517" rz="-2.134053946">
+	</transform>
+	<transform id="pose_3_yatekomo" tx="-19.01727295" ty="715.3467407" tz="877.4561768"  rx="-1.552349448" ry="3.155638218" rz="0.002581832465">
+	</transform>
+	<transform id="pose_4_yatekomo" tx="-14.59391594" ty="710.5587158" tz="881.7578125"  rx="1.585248828" ry="-0.05216094106" rz="2.216626406">
+	</transform>
+	<transform id="pose_5_yatekomo" tx="-25.36402893" ty="710.1907349" tz="875.8564453"  rx="1.566169858" ry="-0.04488770291" rz="1.12343061">
+	</transform>
+	<transform id="pose_6_yatekomo" tx="-53.08988953" ty="714.4708862" tz="1363.960571"  rx="1.556042194" ry="0.001244067098" rz="-1.556055069">
+	</transform>
+	<transform id="pose_7_yatekomo" tx="-49.33737564" ty="713.3387451" tz="1354.829956"  rx="1.589936852" ry="-0.01586356945" rz="-2.513789654">
+	</transform>
+	<transform id="pose_8_yatekomo" tx="-52.56924438" ty="719.0098267" tz="1350.346802"  rx="1.592246652" ry="-0.0547012426" rz="2.628996849">
+	</transform>
+	<transform id="pose_9_yatekomo" tx="-54.95840454" ty="704.3295288" tz="1371.67334"  rx="1.553471565" ry="-0.03719825298" rz="1.587027311">
+	</transform>
+	<transform id="pose_10_yatekomo" tx="-62.47314453" ty="696.8120117" tz="1360.937256"  rx="1.547850132" ry="-0.1077436954" rz="0.6119020581">
+	</transform>
+	<transform id="pose_11_yatekomo" tx="-49.94045639" ty="712.9543457" tz="1363.42627"  rx="1.540895581" ry="0.001032274216" rz="-0.5089837909">
+	</transform>
+</innermodel>

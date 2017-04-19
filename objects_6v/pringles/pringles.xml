@@ -1,0 +1,14 @@
+<innermodel>
+	<transform id="pose_0_pringles" tx="-11.74642944" ty="711.1882935" tz="883.9577637"  rx="1.546758294" ry="-0.01952364668" rz="0.01534132566">
+	</transform>
+	<transform id="pose_1_pringles" tx="-23.73377991" ty="706.1037598" tz="877.0964966"  rx="1.572514653" ry="-0.06831911206" rz="2.032443047">
+	</transform>
+	<transform id="pose_2_pringles" tx="-16.08050537" ty="709.6591797" tz="883.4195557"  rx="1.571962237" ry="-0.02056461386" rz="-2.067467928">
+	</transform>
+	<transform id="pose_3_pringles" tx="-44.73903656" ty="715.4631958" tz="1361.34082"  rx="1.593798757" ry="-0.01975289173" rz="-3.109840155">
+	</transform>
+	<transform id="pose_4_pringles" tx="-45.11459351" ty="713.0856323" tz="1357.723999"  rx="1.557911754" ry="0.01549952943" rz="-0.9940450788">
+	</transform>
+	<transform id="pose_5_pringles" tx="-56.26673889" ty="716.6098633" tz="1358.675903"  rx="1.558772564" ry="-0.04331165552" rz="1.055097818">
+	</transform>
+</innermodel>

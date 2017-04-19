@@ -1,0 +1,34 @@
+<innermodel>
+	<transform id="pose_0_grapadora" tx="-6.364318848" ty="708.3977051" tz="859.5783081"  rx="1.552723289" ry="-0.01116324496" rz="0.01525052264">
+	</transform>
+	<transform id="pose_1_grapadora" tx="-11.30231476" ty="709.9998779" tz="865.3193359"  rx="1.561745405" ry="-0.006591333542" rz="-0.8123722076">
+	</transform>
+	<transform id="pose_2_grapadora" tx="-1.575683594" ty="705.0287476" tz="856.9522095"  rx="1.54782176" ry="0.02081660368" rz="-1.565690994">
+	</transform>
+	<transform id="pose_3_grapadora" tx="-4.450586319" ty="703.4806519" tz="867.1948853"  rx="1.577996492" ry="-0.01537052356" rz="-2.349517107">
+	</transform>
+	<transform id="pose_4_grapadora" tx="-1.745849609" ty="709.784729" tz="854.9177246"  rx="-1.541780472" ry="3.143333673" rz="0.01758613251">
+	</transform>
+	<transform id="pose_5_grapadora" tx="-8.24486351" ty="716.2473755" tz="856.0800781"  rx="1.599643111" ry="-0.03799703717" rz="2.338836193">
+	</transform>
+	<transform id="pose_6_grapadora" tx="-18.03973389" ty="704.1480103" tz="858.059082"  rx="1.560623527" ry="-0.05830136687" rz="1.593010068">
+	</transform>
+	<transform id="pose_7_grapadora" tx="-10.11234283" ty="712.2026978" tz="858.4846191"  rx="1.571688056" ry="-0.02385715395" rz="0.7657167315">
+	</transform>
+	<transform id="pose_8_grapadora" tx="-42.5597229" ty="711.1820679" tz="1334.517456"  rx="1.559847951" ry="0.0205622036" rz="-0.5002717376">
+	</transform>
+	<transform id="pose_9_grapadora" tx="-41.99295044" ty="713.4916382" tz="1343.450928"  rx="1.569899917" ry="0.006535364315" rz="-1.142466187">
+	</transform>
+	<transform id="pose_10_grapadora" tx="-46.13508606" ty="716.6165161" tz="1336.942383"  rx="1.577273607" ry="-0.00769290654" rz="-2.052002192">
+	</transform>
+	<transform id="pose_11_grapadora" tx="-42.57872009" ty="728.239502" tz="1320.102295"  rx="1.61692512" ry="-0.00821104832" rz="-2.725918531">
+	</transform>
+	<transform id="pose_12_grapadora" tx="-45.16737747" ty="716.8919067" tz="1332.168701"  rx="1.582792878" ry="-0.01274171658" rz="2.657312393">
+	</transform>
+	<transform id="pose_13_grapadora" tx="-52.45031738" ty="707.5597534" tz="1340.291382"  rx="1.598917961" ry="-0.04966503754" rz="2.074877977">
+	</transform>
+	<transform id="pose_14_grapadora" tx="-53.82681274" ty="709.8321533" tz="1342.20459"  rx="1.573886275" ry="-0.05122350901" rz="1.0873487">
+	</transform>
+	<transform id="pose_15_grapadora" tx="-56.41456604" ty="694.2643433" tz="1352.821899"  rx="1.542773128" ry="-0.09071591496" rz="0.4490467906">
+	</transform>
+</innermodel>

@@ -1,14 +1,14 @@
 <innermodel>
-	<transform id="pose_0_grapadora" tx="-12.65193176" ty="703.1288452" tz="887.0826416"  rx="1.527992129" ry="-0.003517015139" rz="0.03354460001">
+	<transform id="pose_0_grapadora" tx="-2.651931763" ty="730" tz="843.0826416"  rx="1.527992129" ry="-0.003517015139" rz="0.03354459256">
 	</transform>
-	<transform id="pose_1_grapadora" tx="-13.60669708" ty="717.5765991" tz="880.1380615"  rx="1.588421583" ry="-0.04846169427" rz="2.19287324">
+	<transform id="pose_1_grapadora" tx="19.39330292" ty="730" tz="812.1380615"  rx="1.588421583" ry="-0.04846169427" rz="2.19287324">
 	</transform>
-	<transform id="pose_2_grapadora" tx="-16.25416565" ty="713.5905762" tz="881.1724854"  rx="1.577717304" ry="-0.01028054766" rz="-2.073726416">
+	<transform id="pose_2_grapadora" tx="24.74583435" ty="730" tz="857.1724854"  rx="1.577717304" ry="-0.01028054766" rz="-2.073726416">
 	</transform>
-	<transform id="pose_3_grapadora" tx="-45.4680481" ty="712.9700317" tz="1372.780029"  rx="1.603618503" ry="-0.0433742106" rz="-3.139297009">
+	<transform id="pose_3_grapadora" tx="-29.4680481" ty="730" tz="1345.780029"  rx="1.603618503" ry="-0.0433742106" rz="-3.139297009">
 	</transform>
-	<transform id="pose_4_grapadora" tx="-49.30590057" ty="714.927002" tz="1365.116089"  rx="1.549582243" ry="0.008198433556" rz="-0.9606117606">
+	<transform id="pose_4_grapadora" tx="-50.30590057" ty="730" tz="1355.116089"  rx="1.549582243" ry="0.008198433556" rz="-0.9606117606">
 	</transform>
-	<transform id="pose_5_grapadora" tx="-58.62194824" ty="710.1445312" tz="1352.020508"  rx="1.584908843" ry="-0.08627084643" rz="1.008790016">
+	<transform id="pose_5_grapadora" tx="-29.62194824" ty="730" tz="1325.020508"  rx="1.584908843" ry="-0.08627084643" rz="1.008790016">
 	</transform>
 </innermodel>
